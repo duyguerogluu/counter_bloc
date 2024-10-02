@@ -1,6 +1,6 @@
 # counter_bloc
 
-A new Flutter project.
+This application was created to understand and experience how Bloc State Management works.
 
 ## Getting Started
 
